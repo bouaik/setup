@@ -2,6 +2,7 @@ git clone https://github.com/bouaik/api-rails-docker.git
 
 git clone https://github.com/bouaik/front-react.git
 
+docker-compose build
 
 docker-compose run web bundle install
 
